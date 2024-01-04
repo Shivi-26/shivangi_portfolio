@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Shivangi </span>
             from <span className="purple"> Uttar Pradesh, India.</span>
             <br />
-            I am currently intern as a Full Stack developer at Grafix.Ui.
+            I am currently intern as a Ui/Ux designer at Greenverse Pvt. Ltd.
             <br />
             I am persuing B.tech from United College of Engineering & Research ,Prayagraj 
             in the field of Computer Science & Engineering.
@@ -19,9 +19,6 @@ function AboutCard() {
             <br />
             Professional Journey
             <ul>
-            <li className="about-activity">
-              <ImPointRight /> <span className="purple">Grafix.Ui  </span> Full Stack Developer
-            </li>
             <li className="about-activity">
               <ImPointRight /> <span className="purple">Greenverse Pvt.Ltd.  </span>Ui/Ux Designer with Zoho Developer 
             </li>
